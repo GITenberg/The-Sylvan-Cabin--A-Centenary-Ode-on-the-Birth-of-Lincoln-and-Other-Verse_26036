@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25201'
     url: http://www.gutenberg.org/2009/agents/25201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26036#The-Sylvan-Cabin--A-Centenary-Ode-on-the-Birth-of-Lincoln-and-Other-Verse
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
