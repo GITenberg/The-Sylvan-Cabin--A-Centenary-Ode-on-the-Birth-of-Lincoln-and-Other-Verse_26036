@@ -1,0 +1,37 @@
+_repo: The-Sylvan-Cabin--A-Centenary-Ode-on-the-Birth-of-Lincoln-and-Other-Verse_26036
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Braithwaite, William Stanley
+    aliases:
+    - Braithwaite, W. S. (William Stanley)
+    - Braithwaite, William Stanley Beaumont
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '865'
+    url: http://www.gutenberg.org/2009/agents/865
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Edward Smyth
+    birthdate: 1881
+    gutenberg_agent_id: '25201'
+    url: http://www.gutenberg.org/2009/agents/25201
+description: ''
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26036'
+  lccn: '11011548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Poetry'
+- !lcc 'E456'
+- !lcc 'PS'
+title: 'The Sylvan Cabin: A Centenary Ode on the Birth of Lincoln, and Other Verse'
+url: http://www.gutenberg.org/ebooks/26036
